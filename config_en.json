@@ -68,7 +68,7 @@
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
-      "showNumber": true,
+      "showNumber":false,
       "design": "default",
       "showBackGround": true,
       "radius": 2.0,
