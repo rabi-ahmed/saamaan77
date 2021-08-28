@@ -63,7 +63,6 @@
             "#12B58C"
           ]
         }
-       
       ]
     },    {
       "layout": "bannerImage",
@@ -75,17 +74,17 @@
       "radius": 2.0,
       "items": [
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==" ,
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled-1.png?v=1629551544",
           "padding": 15.0
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjM2MzAzNTgwMQ==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/222222.png?v=1629553769",
           "padding": 15.0
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjM2MzAzNTgwMQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDY5Mzk3NDA2MQ==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled-3_d0eea39b-b7ad-421b-98c2-4c0d03c157d1.png?v=1629551544",
           "padding": 15.0
         }
@@ -124,7 +123,7 @@
     },
 
     {
-      "name": "Latest Products",
+      "name": "Newest Products",
       "layout": "staggered",
       "limit": 20,
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3ODU2NjU2MTgzNw=="
